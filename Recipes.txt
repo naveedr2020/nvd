@@ -4,5 +4,7 @@ biryani
 pasta
 kheer
 Chicken Fry
+Beans
+Pizza
 
 Thank you :)
